@@ -1,2 +1,0 @@
-# WeekThreeDayTwo
-Promises
